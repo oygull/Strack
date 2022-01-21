@@ -1,0 +1,64 @@
+
+
+@font-face {
+    font-family: 'Harmonia Sans Pro Cyr';
+    src: url('HarmoniaSansProCyr-Light.eot');
+    src: local('Harmonia Sans Pro Cyr Light'), local('HarmoniaSansProCyr-Light'),
+        url('HarmoniaSansProCyr-Light.eot?#iefix') format('embedded-opentype'),
+        url('HarmoniaSansProCyr-Light.woff2') format('woff2'),
+        url('HarmoniaSansProCyr-Light.woff') format('woff'),
+        url('HarmoniaSansProCyr-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Harmonia Sans Pro Cyr';
+    src: url('HarmoniaSansProCyr-Bold.eot');
+    src: local('Harmonia Sans Pro Cyr Bold'), local('HarmoniaSansProCyr-Bold'),
+        url('HarmoniaSansProCyr-Bold.eot?#iefix') format('embedded-opentype'),
+        url('HarmoniaSansProCyr-Bold.woff2') format('woff2'),
+        url('HarmoniaSansProCyr-Bold.woff') format('woff'),
+        url('HarmoniaSansProCyr-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Harmonia Sans Pro Cyr Cond';
+    src: url('HarmoniaSansProCyr-BoldCond.eot');
+    src: local('Harmonia Sans Pro Cyr Bold Cond'), local('HarmoniaSansProCyr-BoldCond'),
+        url('HarmoniaSansProCyr-BoldCond.eot?#iefix') format('embedded-opentype'),
+        url('HarmoniaSansProCyr-BoldCond.woff2') format('woff2'),
+        url('HarmoniaSansProCyr-BoldCond.woff') format('woff'),
+        url('HarmoniaSansProCyr-BoldCond.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Harmonia Sans Pro Cyr Semi Bd';
+    src: url('HarmoniaSansProCyr-SemiBd.eot');
+    src: local('Harmonia Sans Pro Cyr Semi Bd'), local('HarmoniaSansProCyr-SemiBd'),
+        url('HarmoniaSansProCyr-SemiBd.eot?#iefix') format('embedded-opentype'),
+        url('HarmoniaSansProCyr-SemiBd.woff2') format('woff2'),
+        url('HarmoniaSansProCyr-SemiBd.woff') format('woff'),
+        url('HarmoniaSansProCyr-SemiBd.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Harmonia Sans Pro Cyr Cond';
+    src: url('HarmoniaSansProCyr-Cond.eot');
+    src: local('Harmonia Sans Pro Cyr Cond'), local('HarmoniaSansProCyr-Cond'),
+        url('HarmoniaSansProCyr-Cond.eot?#iefix') format('embedded-opentype'),
+        url('HarmoniaSansProCyr-Cond.woff2') format('woff2'),
+        url('HarmoniaSansProCyr-Cond.woff') format('woff'),
+        url('HarmoniaSansProCyr-Cond.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
