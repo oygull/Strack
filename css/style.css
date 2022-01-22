@@ -70,7 +70,7 @@ ul{
   width: 100%;
   height: 86px;
   z-index: 500;
-  transition: all 0.7s ease;
+  transition: all 1.5s ease;
 }
 .header-color {
   background-color: #000000de;
